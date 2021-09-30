@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+h1 {
+    color: #6E8B88;
+    font-size: 60px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+main {
+    background-color: #8DB5B1;
+}
+
+#about {
+    padding: 60px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+#about p {
+    line-height: 1.5;
+}
+
+.important-text {
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+}
+
+footer {
+    padding: 40px 0;
+}
+
+ul {
+    padding-left: 0;
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    padding: 0 10px;
+}
+
+.social-media-icons {
+    width: 30px;
+}
